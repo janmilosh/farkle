@@ -11,7 +11,7 @@ You may download this game from GitHub as a zip folder. Click the Download ZIP b
 
 From your terminal, navigate the game folder and open it. To launch the game, at the terminal prompt type 'ruby game.rb' (without the quotes). You'll be prompted to enter a name for each player. Once the names are entered, the play begins.
 
-###Playing the game
+###Play the game
 
 For background on the play and scoring of Farkle, please go to [the Wikipedia article](http://en.wikipedia.org/wiki/Farkle "Farkle play and rules"). This version follows the standard rules for scoring.
 
