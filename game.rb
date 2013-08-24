@@ -117,6 +117,7 @@ def round(player)
 		if roll_score == 0
 			round_score = 0
 			puts "You just Farkled so you get zero points in this round."
+			puts
 			break
 		else
 			round_score = round_score + roll_score
@@ -127,6 +128,7 @@ def round(player)
 		if number_of_dice == 0 && input != "b"
 			number_of_dice = 6
 			puts "You have hot dice!!!"
+			puts
 		end
 	end
 	return round_score
