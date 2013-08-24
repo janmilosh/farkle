@@ -9,7 +9,7 @@ This game is played in the terminal and was written in Ruby version 1.9.3. Pleas
 
 You may download this game from GitHub as a zip folder. Click the Download ZIP button at the bottom of the right sidebar of this page. After downloading, unzip the file and give it a readable name that you can remember. Move the file to a location that you can easily access with your terminal.
 
-From your terminal, navigate the game folder and open it. To launch the game, at the terminal prompt type 'ruby game.rb' (without the quotes). You'll be prompted to enter a name for each player. Once the names are entered, the play begins.
+From your terminal, navigate to the game folder and open it. To launch the game, at the terminal prompt type 'ruby game.rb' (without the quotes). You'll be prompted to enter a name for each player. Once the names are entered, the play begins.
 
 ###Play the game
 
